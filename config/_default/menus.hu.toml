@@ -1,8 +1,8 @@
-############# French navigation ##############
+############# Hun navigation ##############
 
 # main menu
 [[main]]
-name = "About"
+name = "Történet"
 url = "about"
 weight = 2
 
@@ -22,7 +22,7 @@ url = "team"
 weight = 6
 
 [[main]]
-name = "Contact"
+name = "Kapcsolat"
 url = "contact"
 weight = 7
 
