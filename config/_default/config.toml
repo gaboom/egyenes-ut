@@ -2,6 +2,7 @@
 baseURL = "https://egyenesut.eu/"
 title = "Egyenes Út"
 theme = "bexar-hugo"
+
 # post pagination
 paginate = "6"
 # post excerpt
@@ -10,11 +11,15 @@ summaryLength = "10"
 # googleAnalytics = "G-T8TYZ1N0T0" # redundant params.toml
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
 
+# language
+disableLanguages = ["enx"]
+defaultContentLanguage = "hu"
+defaultContentLanguageInSubdir = false
 
 ############################# Outputs ##############################
+publishDir = "docs-work"
+
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 
