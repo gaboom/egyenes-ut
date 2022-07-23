@@ -1,0 +1,190 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Homepage
+- type: document
+  path: exampleSite/content/english/_index.md
+  label: Homepage (en)
+- type: document
+  path: exampleSite/content/french/_index.md
+  label: Homepage (fr)
+- type: heading
+  label: About
+- type: document
+  path: exampleSite/content/english/about.md
+  label: About (en)
+- type: document
+  path: exampleSite/content/french/about.md
+  label: About (fr)
+- type: heading
+  label: Projects
+- type: document
+  path: exampleSite/content/english/project/_index.md
+  label: Project Page (en)
+- type: directory
+  path: exampleSite/content/english/project
+  label: Project Items (en)
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - project
+- type: document
+  path: exampleSite/content/french/project/_index.md
+  label: Project Page (fr)
+- type: directory
+  path: exampleSite/content/french/project
+  label: Project Items (fr)
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - project
+- type: heading
+  label: Services
+- type: document
+  path: exampleSite/content/english/service/_index.md
+  label: Service Page (en)
+- type: directory
+  path: exampleSite/content/english/service
+  label: Service Items (en)
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - service
+- type: document
+  path: exampleSite/content/french/service/_index.md
+  label: Service Page (fr)
+- type: directory
+  path: exampleSite/content/french/service
+  label: Service Items (fr)
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - service
+- type: heading
+  label: Team
+- type: document
+  path: exampleSite/content/english/team/_index.md
+  label: Team Page (en)
+- type: directory
+  path: exampleSite/content/english/team
+  label: Team Items (en)
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - team
+- type: document
+  path: exampleSite/content/french/team/_index.md
+  label: Team Page (fr)
+- type: directory
+  path: exampleSite/content/french/team
+  label: Team Items (fr)
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - team
+- type: heading
+  label: Blog
+- type: document
+  path: exampleSite/content/english/blog/_index.md
+  label: Blog Page (en)
+- type: directory
+  path: exampleSite/content/english/blog
+  label: Blog Post (en)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
+- type: document
+  path: exampleSite/content/french/blog/_index.md
+  label: Blog Page (fr)
+- type: directory
+  path: exampleSite/content/french/blog
+  label: Blog Post (fr)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
+- type: heading
+  label: Others Page
+- type: document
+  path: exampleSite/content/english/contact.md
+  label: Contact (en)
+- type: document
+  path: exampleSite/content/french/contact.md
+  label: Contact (fr)
+- type: document
+  path: exampleSite/content/english/search.md
+  label: Search (en)
+- type: document
+  path: exampleSite/content/french/search.md
+  label: Search (fr)
+- type: document
+  path: exampleSite/content/english/terms.md
+  label: Terms (en)
+- type: document
+  path: exampleSite/content/french/terms.md
+  label: Terms (fr)
+- type: document
+  path: exampleSite/content/english/privacy-policy.md
+  label: Privacy Policy (en)
+- type: document
+  path: exampleSite/content/french/privacy-policy.md
+  label: Privacy Policy (fr)
+- type: heading
+  label: All Pages
+- type: directory
+  path: exampleSite/content
+  label: All Pages
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - new-page
+- type: heading
+  label: Configuration
+- type: document
+  path: exampleSite/config/_default/config.toml
+  label: Configuration
+- type: document
+  path: exampleSite/config/_default/params.toml
+  label: Parameters
+- type: document
+  path: config.toml
+  label: Variables & Plugins
+- type: document
+  path: exampleSite/config/_default/languages.toml
+  label: Languages
+- type: document
+  path: exampleSite/config/_default/menus.en.toml
+  label: Menu (en)
+- type: document
+  path: exampleSite/config/_default/menus.fr.toml
+  label: Menu (fr)
+upload_dir: exampleSite/static/images
+public_path: "/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.81.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.81.0

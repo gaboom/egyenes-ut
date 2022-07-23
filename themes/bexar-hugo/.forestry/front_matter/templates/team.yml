@@ -1,0 +1,48 @@
+---
+label: Team
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image_webp
+  label: bg_image_webp
+- type: file
+  name: bg_image
+  label: bg_image
+- type: file
+  name: image_webp
+  label: image_webp
+- type: file
+  name: image
+  label: image
+- type: text
+  name: designation
+  label: designation
+- type: field_group_list
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: link
+    label: link
+- type: text
+  name: skill_title
+  label: skill_title
+- type: field_group_list
+  name: skill
+  label: skill
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: percentage
+    label: percentage
