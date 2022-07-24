@@ -4,9 +4,9 @@ languageName = "Hu"
 languageCode = "hu-HU"
 contentDir = "content/magyar"
 weight = 1
-home = "Egyenesút"
+home = "Egyenes út"
 # footer content
-footer_content = "Megvalósítjuk terveit. Bizonyosság, minsőgés, megbízhatóság. Minden egyes alkalommal. Építsünk együtt egy szebb világot!"
+footer_content = "Megvalósítjuk terveit. Minsőgés és megbízhatóság. <br/> Minden egyes alkalommal."
 # copyright
 copyright = "© 2022 ― Minden jog fenntartva!"
 
@@ -16,7 +16,7 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
-home = "Our Company"
+home = "Home"
 # footer content
 footer_content = "Making your vision become a reality. Quality. Safety. Reliability. Every time. Let’s construct a better tomorrow for future generations."
 # copyright

@@ -2,66 +2,57 @@
 
 # main menu
 [[main]]
-name = "Történet"
+name = "Rólunk"
 url = "about"
+weight = 1
+
+[[main]]
+name = "Projektek"
+url = "contact"
 weight = 2
 
 [[main]]
-name = "Service"
-url = "service"
-weight = 3
-
-[[main]]
-name = "Blog"
-url = "blog"
-weight = 4
-
-[[main]]
-name = "Team"
-url = "team"
-weight = 6
+name = "Referenciák"
+url = "references"
+weight = 2
 
 [[main]]
 name = "Kapcsolat"
 url = "contact"
-weight = 7
+weight = 3
 
 [[main]]
 weight = 8
-name = "Pages"
+name = "Egyéb"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
+  parent = "Egyéb"
   name = "All Projects"
   url = "project"
   weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Terms of Service"
-  url = "terms"
+  parent = "Egyéb"
+  name = "Service"
+  url = "service"
   weight = 2
 
   [[main]]
-  parent = "Pages"
-  name = "Privacy Policy"
-  url = "privacy-policy"
+  parent = "Egyéb"
+  name = "Blog"
+  url = "blog"
   weight = 3
 
   [[main]]
-  parent = "Pages"
-  name = "Elements"
-  url = "blog/elements"
+  parent = "Egyéb"
+  name = "Team"
+  url = "team"
   weight = 4
+
 
 # footer menu
 [[footer]]
-name = "Terms of Service"
-url = "terms"
-weight = 1
-
-[[footer]]
-name = "Privacy Policy"
+name = "Adatvédelmi tájékoztató"
 url = "privacy-policy"
 weight = 2

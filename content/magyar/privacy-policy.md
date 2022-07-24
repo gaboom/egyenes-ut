@@ -1,30 +1,54 @@
 ---
-title: "Our Privacy Policy"
+title: "Adatvédelmi Tájékoztató"
 draft: false
 # description
-description: "This is meta description"
+description: "Our Privacy Policy"
 ---
 
-#### Responsibility of Contributors
+### Az adatvédelmi tájékoztató célja
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+Jelen dokumentum célja, hogy a weboldal tulajdonosa mint adatkezelő (a továbbiakban egységesen Adatkezelő) leírja az Adatkezelő szervezetében alkalmazott és működő, személyes adatnak minősülő adatokra vonatkozó adatvédelmi szabályokat, eljárásokat és védelmi intézkedéseket.
+Az Adatkezelő egyúttal e dokumentumban tájékoztatja ügyfeleit, partnereit, illetőleg minden olyan természetes- és jogi személyt, akik az Adatkezelővel bármilyen – jogi szempontból értelmezhető – kapcsolatban állnak és a személyes kezelése során érintettségük keletkezik, az általa kezelt személyes adatok kezelésének szabályairól, az alkalmazott védelmi intézkedésekről eljárásokról és az adatkezelés módjáról.
+Az Adatkezelő jelen Adatkezelési tájékoztatóban leírt szabályokat, rendelkezéseket és kötelezettségeket saját magára jogilag kötelező érvényűnek tekinti és működése során alkalmazza, valamint kijelenti, hogy jelen dokumentumban leírt és alkalmazott adatvédelmi szabályok és eljárások megfelelnek a hatályos adatvédelmi nemzeti és Európai Uniós jogszabályoknak. Adatkezelő kijelenti továbbá, hogy fontosnak tekinti az információs önrendelkezés jogát, különös tekintettel a személyes adatokra és saját hatókörében minden elérhető szervezeti, működési, szabályozási és technológia intézkedést megtesz e jogok betartása és betartatása érdekében.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+### Az Adatkezelő adatai
 
-#### Gathering of Personal Information
+##### Az Adatkezelő elérhetőségei
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Adatvédelmi kérdésekben Adatkezelő az oldalon található kapcsolat menüpontban megadott elérhetőségeken kereshető meg.
 
-#### Protection of  Personal- Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+#####  Adatkezelő Adatkezelései és a kezelt személyes adatok
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+Regisztráció, feliratkozás során az alábbi adatokat kérjük: Név, email cím, telefonszám
 
-#### Privacy Policy Changes
+Online rendeléshez kapcsolódó adatok:
+Online rendelés, ajánlatkérés során az alábbi adatokat kérjük: email cím, telefonszám, számlázási és szállítási név illetve cím.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+### Böngésző Süti – Cookie
+
+A sütik feladata
+A HTTP-süti (süti, cookie) kisméretű adatcsomag, amelyet az internetes böngészés során a látogatott weboldalt tartalmazó szerver hozza létre a kliens webböngészője segítségével, az első látogatás alkalmával, ha ez a böngészőben engedélyezve van. A sütik a felhasználó számítógépén, előre meghatározott, böngésző típusonként eltérő helyen tárolódnak. A további látogatások során a tárolt sütit a böngésző visszaküldi a webszervernek, különféle, a kliensről szóló információkkal együtt. A sütik segítségével a szervernek lehetősége van az adott felhasználó azonosítására, róla különféle információk gyűjtésére és ezekből elemzések készítésére.
+
+Sütik letiltásának-, sütikkel kapcsolatos szabályok beállításának lehetősége
+Az Érintettnek lehetősége van bizonyos típusú sütikre vonatkozó szabályok beállítására, pl. a sütik használatának mellőzésére, a sütik letiltására stb., a használt böngésző megfelelő beállításaival. A sütik szelektív, vagy általános tiltásának beállítási lehetőségeiről szóló információk az adott böngésző „Segítség/Help” menüjében találhatóak meg. Ezek segítségével a sütik:
+A legtöbb böngésző menüsorában található „Segítség” funkció tájékoztatást nyújt arra vonatkozóan, hogy a böngészőben hogyan lehet a sütiket:
+
+- általánosan letiltani;
+- a sütik elfogadásának módját beállítani (automatikus elfogadás, egyenként kérdezzen rá, stb.);
+- egyenként letiltani;
+- egyenként, vagy csoportosan törölni;
+- egyéb sütikkel kapcsolatos műveleteket elvégezni.
+
+### Az adatkezelés célja, módja és jogalapja
+
+##### Általános adatkezelési irányelvek
+Adatkezelő a 3. pontban felsorol Adatkezelésekben a személyes adatok kezelését, minden esetben az adatkezelésben megadott céllal és az ott megadott jogalap alapján, a 4.2. pontban felsorol jogszabályok szerint végzi.
+A személyes adatok kezelése minden esetben az Érintett önkéntes hozzájárulásával történik, amely hozzájárulást az Érintett bármikor jogosult visszavonni.
+Adatkezelő egyes személyes adatokat, jogszabályi kötelezettség folytán, bizonyos esetekben és bizonyos rendhagyó feltételek esetén, köteles az Adatkezelésekben leírtaktól eltérő módon kezelni, átadni, továbbítani, tárolni. Ilyen esetekben Adatkezelő gondoskodik az Érintettek értesítéséről, amennyiben az adott jogszabály előírásai ezt lehetővé teszik, vagy nem tiltják kifejezetten.
+
+### Az Adatkezelések jogalapját adó jogszabályok
+Adatkezelő a személyes adatok kezelését az GDPR Az Európai Parlament és a Tanács (EU) 2016/679 rendelete (2016. április 27.) 2013. évi V. törvény – a Polgári Törvénykönyvről (Ptk.); szabályzat alapján végzi.
+
+### Az adatok tárolási helyei
+Adatkezelő a személyes adatokat integrált informatikai rendszeren tárolja. A rendszer elemei a tárhelyszolgáltató telephelyén van elhelyezve.

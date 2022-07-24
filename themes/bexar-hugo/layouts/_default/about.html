@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
+{{ if .Params.testimonial.enable }}
+{{ partial "testimonial.html" . }}
+{{ end }}
 
 {{ if .Params.philosophy.enable }}
 {{ with .Params.philosophy }}
