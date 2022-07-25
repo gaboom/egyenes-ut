@@ -3,6 +3,8 @@ title: "Adatvédelmi Tájékoztató"
 draft: false
 # description
 description: "Our Privacy Policy"
+bg_image_webp: "images/backgrounds/page-title.webp"
+bg_image: "images/backgrounds/page-title.jpg"
 ---
 
 ### Az adatvédelmi tájékoztató célja

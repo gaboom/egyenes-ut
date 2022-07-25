@@ -8,17 +8,17 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # google analytics
-# googleAnalytics = "G-T8TYZ1N0T0" # redundant params.toml
+googleAnalytics = "G-T8TYZ1N0T0" # redundant params.toml
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
 # language
-disableLanguages = ["enx"]
+disableLanguages = ["en"]
 defaultContentLanguage = "hu"
 defaultContentLanguageInSubdir = false
 
 ############################# Outputs ##############################
-publishDir = "docs-work"
+publishDir = "docs"
 
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]

@@ -39,7 +39,7 @@ hero_slider:
       bg_image : "images/slider/banner-3.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
-        enable : true
+        enable : false
         label : "more details"
         link : "about"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
@@ -121,12 +121,5 @@ about:
     enable : false
     label : "Tovább a csapathoz"
     link : "team"
-
-################################# service ############################################
-service:
-  enable : true
-  section: "service"
-  show_item : 3
-  # service item comes from "content/*/service" folder
 
 ---

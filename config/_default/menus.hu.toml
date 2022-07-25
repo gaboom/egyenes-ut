@@ -28,31 +28,19 @@ hasChildren = true
 
   [[main]]
   parent = "Egyéb"
-  name = "All Projects"
-  url = "project"
+  name = "Letöltések"
+  url = "downloads"
   weight = 1
 
   [[main]]
   parent = "Egyéb"
-  name = "Service"
-  url = "service"
+  name = "Adatvédelmi tájékoztató"
+  url = "privacy-policy"
   weight = 2
-
-  [[main]]
-  parent = "Egyéb"
-  name = "Blog"
-  url = "blog"
-  weight = 3
-
-  [[main]]
-  parent = "Egyéb"
-  name = "Team"
-  url = "team"
-  weight = 4
 
 
 # footer menu
 [[footer]]
 name = "Adatvédelmi tájékoztató"
 url = "privacy-policy"
-weight = 2
+weight = 1

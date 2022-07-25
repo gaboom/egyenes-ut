@@ -1,68 +1,68 @@
 - id: read_more
-  translation: Read More
+  translation: Részletek
   
 - id: address
-  translation: Our Address
+  translation: Telephelyünk
 
 - id: phone
-  translation: Phone Number
+  translation: Hívjon minket
 
 - id: email
-  translation: Message Us
+  translation: Emailcím
 
 - id: contact_form
-  translation: Contact Form
+  translation: Írjon nekünk
 
 - id: send
-  translation: send message
+  translation: Üzenetküldés
 
 - id: follow
-  translation: FOLLOW US ON
+  translation: follow_i18n
 
 - id: services
-  translation: Services
+  translation: services_i18n
 
 - id: contact_info
-  translation: Contact Info
+  translation: Elérhetőség
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Hírlevél feliratkozás
 
 - id: subscribe
-  translation: Subscribe
+  translation: Feliratkozom
 
 - id: connect_with_us
-  translation: Connect With Us
+  translation: connect_18n
 
 - id: call_now
-  translation: Call Now
+  translation: call_i18n
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Keresés...
 
 - id: quick_contact
-  translation: Quick Contact
+  translation: Elérhetőség
 
 - id: latest_article
-  translation: Latest Article
+  translation: latest_i18n
 
 - id: category
-  translation: Category
+  translation: category_i18n
 
 - id: tags
-  translation: Tags
+  translation: tags_i18n
 
 - id: all
-  translation: ALL
+  translation: all_i18n
 
 - id: client
-  translation: client
+  translation: client_i18n
 
 - id: date
-  translation: date
+  translation: dátum
 
 - id: status
-  translation: status
+  translation: státusz
   
 - id: our_services
-  translation: Our Services
+  translation: our_services_i18n
