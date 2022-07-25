@@ -3,7 +3,7 @@
     <img loading="lazy" src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{.Params.Image | absURL }}'" alt="{{ .Title }}"
       class="img-fluid w-100">
     <div class="hover-overlay">
-      <a href="{{ .Params.Image | absURL }}" class="venobox"><i class="uni-plus"></i></a>
+      <a href="{{ .Params.Image | absURL }}" class="venobox"><i class="uni-plus fas fa-eye" style="font-size:2.6em"></i></a>
     </div>
   </div>
   {{ "<!-- project-info -->" | safeHTML }}
