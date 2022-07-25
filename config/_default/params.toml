@@ -19,7 +19,7 @@ google_analitycs_id = "G-T8TYZ1N0T0" # your id
 # page sidebar quick contact form
 quick_contact = true
 # search
-search = true
+search = false
 
 # Preloader
 [preloader]

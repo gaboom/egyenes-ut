@@ -10,4 +10,3 @@ about:
 # about content comes from `content/*/_index.md` file
 
 ---
-

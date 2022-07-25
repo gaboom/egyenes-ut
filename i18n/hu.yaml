@@ -53,7 +53,7 @@
   translation: tags_i18n
 
 - id: all
-  translation: all_i18n
+  translation: Mind
 
 - id: client
   translation: client_i18n

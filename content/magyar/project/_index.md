@@ -1,8 +1,8 @@
 ---
-subtitle : "Bexar Case Studies"
-title : "Case Study"
+subtitle : "Projektek"
+title : "Projektek"
 # meta description
-description: "this is meta description"
+description: "Projektek"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"

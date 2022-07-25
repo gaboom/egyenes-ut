@@ -12,7 +12,7 @@ image: "images/project/project-6.jpg"
 # client
 client: "Australia"
 # project category
-category: "Investment"
+category: "Útépítés"
 # project status
 status : "In Process"
 ---

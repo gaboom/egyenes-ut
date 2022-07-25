@@ -13,8 +13,8 @@ hero_slider:
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
-        enable : false
-        label : "more details"
+        enable : true
+        label : "Többet rólunk"
         link : "about"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
@@ -26,9 +26,9 @@ hero_slider:
       bg_image : "images/slider/banner-2.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
-        enable : false
-        label : "more details"
-        link : "about"
+        enable : true
+        label : "Projektjeink"
+        link : "project"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -39,9 +39,9 @@ hero_slider:
       bg_image : "images/slider/banner-3.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
-        enable : false
-        label : "more details"
-        link : "about"
+        enable : true
+        label : "Referenciák"
+        link : "references"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -52,9 +52,9 @@ hero_slider:
       bg_image : "images/slider/banner-4.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
-        enable : false
-        label : "more details"
-        link : "about"
+        enable : true
+        label : "Kapcsolatfelvétel"
+        link : "contact"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -118,8 +118,8 @@ about:
   image_webp : "images/about/about-us.webp"
   image : "images/about/about-us.png"
   button:
-    enable : false
-    label : "Tovább a csapathoz"
-    link : "team"
+    enable : true
+    label : "Lépjünk kapcsolatba"
+    link : "contact"
 
 ---
