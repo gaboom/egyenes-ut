@@ -5,5 +5,8 @@ Prerequisites
 * Enable/disable en language in config/_default/config.toml
 * Staging
 ** hugo server
-* Prod
-* hugo
+** http://localhost:1313
+* Prod release
+** rm -rf docs
+** hugo
+** git add, commit & push

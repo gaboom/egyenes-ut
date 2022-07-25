@@ -19,7 +19,7 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "Válasszon minket, ha"
+    - subtitle : "Válasszon minket, ha a"
       title : "Részletekbemenő precizitás a minimum"
       content : ""
       bg_image_webp : "images/slider/banner-2.webp"
@@ -33,7 +33,7 @@ hero_slider:
         
     # slider item
     - subtitle : "Válasszon minket, mert"
-      title : "Számít az idő, a pénz, és a minőség"
+      title : "Számít az idő, <br/> a pénz, és a minőség"
       content : ""
       bg_image_webp : "images/slider/banner-3.webp"
       bg_image : "images/slider/banner-3.jpg"
@@ -80,7 +80,7 @@ banner_feature:
     # banner feature item loop
     - name : "Komplex kivitelezés"
       icon : "fas fa-archway" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Teljeskörű kivitelezés: <br/> projekt menedzsmenttel és felelősségbiztosítással."
+      content : "Teljeskörű kivitelezés: <br/> projektmenedzsmenttel és felelősségbiztosítással."
 
 
 ################################## funfacts ###############################
