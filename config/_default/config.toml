@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://egyenesut.eu/"
-title = "Egyenes Út"
+title = "egyenesut.eu | Egyenes úton a sikerhez!"
 theme = "bexar-hugo"
 
 # post pagination

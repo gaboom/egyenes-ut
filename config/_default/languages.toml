@@ -4,7 +4,7 @@ languageName = "Hu"
 languageCode = "hu-HU"
 contentDir = "content/magyar"
 weight = 1
-home = "Egyenes út"
+home = "Nyitóoldal"
 # footer content
 footer_content = "Megvalósítjuk terveit. Minsőgés és megbízhatóság. <br/> Minden egyes alkalommal."
 # copyright

@@ -1,5 +1,5 @@
 ########################### Default parameters ######################
-logo = "images/logo.svg"
+logo = "images/logo.png"
 logo_width = "149px"
 logo_footer = "images/favicon.ico"
 favicon = "images/favicon.ico"
