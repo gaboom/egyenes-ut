@@ -22,6 +22,11 @@ url = "contact"
 weight = 3
 
 [[main]]
+name = "Pályázatok"
+url = "tender"
+weight = 3
+
+[[main]]
 weight = 8
 name = "Egyéb"
 hasChildren = true
