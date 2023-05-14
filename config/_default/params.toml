@@ -1,6 +1,6 @@
 ########################### Default parameters ######################
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "300px"
 logo_footer = "images/favicon.ico"
 favicon = "images/favicon.ico"
 # top header
@@ -20,6 +20,7 @@ google_analitycs_id = "G-T8TYZ1N0T0" # your id
 quick_contact = true
 # search
 search = false
+mff = "images/MFF.jpg"
 
 # Preloader
 [preloader]
